@@ -1,3 +1,79 @@
+## Submission Details
+
+### Public GitHub Repository Link
+https://github.com/bkakoti/learning-journey-react-native-notes-ui
+
+---
+
+## Demo Video Link
+https://github.com/bkakoti/learning-journey-react-native-notes-ui/blob/main/demo/video/demo-video.mp4
+
+---
+
+## Demo Screenshot Images
+
+### Home Screen
+![Home Screen](https://raw.githubusercontent.com/bkakoti/learning-journey-react-native-notes-ui/refs/heads/main/demo/image/home-screen.png)
+
+### Dark Mode
+![Dark Mode](https://raw.githubusercontent.com/bkakoti/learning-journey-react-native-notes-ui/refs/heads/main/demo/image/dark-mode.png)
+
+### Editor Screen
+![Editor Screen](https://raw.githubusercontent.com/bkakoti/learning-journey-react-native-notes-ui/refs/heads/main/demo/image/editor-screen.png)
+
+---
+
+## Components Used
+
+### From `home.tsx`
+- SafeAreaView
+- View
+- Text
+- TextInput
+- FlatList
+- Pressable
+- Switch
+- StatusBar
+
+### From `editor.tsx`
+- SafeAreaView
+- KeyboardAvoidingView
+- ImageBackground
+- Pressable
+- TextInput
+- View
+- Text
+- StatusBar
+
+---
+
+## Hooks Used
+
+### React Hooks
+- useState
+- useMemo
+
+### React Native Hooks
+- useColorScheme
+- useWindowDimensions
+
+---
+
+## References
+
+### React Native Components & APIs
+https://reactnative.dev/docs/components-and-apis
+
+### Color Palette Reference
+https://www.realtimecolors.com/?colors=eae9fc-010104-3a31d8-020024-0600c2&fonts=Inter-Inter
+
+### Header Background Image Source
+https://unsplash.com/photos/person-writing-on-brown-wooden-table-near-white-ceramic-mug-s9CC2SKySJM
+
+
+---
+---
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
